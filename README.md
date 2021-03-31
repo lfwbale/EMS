@@ -11,15 +11,15 @@
     * 员工信息包括 id name salary age bir
 * ##### 运行效果示例图
 * ###### 用户登录界面
-![1fd9b06f001035de948bbf6fe9933ce3.png](evernotecid://848BA53C-1069-4418-97BD-83211FEC73F4/appyinxiangcom/10677968/ENResource/p578)
+![1fd9b06f001035de948bbf6fe9933ce3.png](https://github.com/lfwbale/EMS/blob/master/images/登录.png)
 * ###### 员工管理界面
-![02c4674e638eb4fe840dce2344cf8fd3.png](evernotecid://848BA53C-1069-4418-97BD-83211FEC73F4/appyinxiangcom/10677968/ENResource/p580)
+![02c4674e638eb4fe840dce2344cf8fd3.png](https://github.com/lfwbale/EMS/blob/master/images/员工管理.png)
 * ###### 增加员工信息
-![3e3f0e5326d3bdbd7289b8dcbcd4f491.png](evernotecid://848BA53C-1069-4418-97BD-83211FEC73F4/appyinxiangcom/10677968/ENResource/p581)
+![3e3f0e5326d3bdbd7289b8dcbcd4f491.png](https://github.com/lfwbale/EMS/blob/master/images/增加员工信息.png)
 * ###### 修改员工信息
-![287f7b45580afd460d7771381ea423e3.png](evernotecid://848BA53C-1069-4418-97BD-83211FEC73F4/appyinxiangcom/10677968/ENResource/p582)
+![287f7b45580afd460d7771381ea423e3.png](https://github.com/lfwbale/EMS/blob/master/images/更新信息.png)
 * ###### 用户注册
-![9d527b34d50c164d040a7db47501bd40.png](evernotecid://848BA53C-1069-4418-97BD-83211FEC73F4/appyinxiangcom/10677968/ENResource/p584)
+![9d527b34d50c164d040a7db47501bd40.png](https://github.com/lfwbale/EMS/blob/master/images/用户注册.png)
 * ##### 项目导入说明
     * 用户信息与员工信息分别保存在MySQL数据库的两张表中。可通过 **src/main/resources/com/example/sql**路径下**init.sql**文件直接创建
     * **src/main/resources/application.properties文件中spring.datasource.url|username|password**需要根据修改为本地数据库相关参数
